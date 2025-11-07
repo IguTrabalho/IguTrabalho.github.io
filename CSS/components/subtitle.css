@@ -1,0 +1,10 @@
+h2{
+    font-family: "Inter", sans-serif;
+    display: inline-block;
+    position: absolute;
+    z-index: 2;
+    top: 360px;
+    left: 450px;
+    font-weight: 500;
+    font-size: 80px
+}
