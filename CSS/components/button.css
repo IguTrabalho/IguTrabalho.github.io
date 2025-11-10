@@ -1,0 +1,31 @@
+.button{
+    background-color: #5A90B2;
+    color: black;
+    display: inline-block;
+    padding: 10px;
+    line-height: 50px;
+    box-shadow: 5px 5px black;
+    text-decoration: none;
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+    font-size: 20px
+}
+
+.button:hover{
+    transform: scale(0.95);
+}
+
+
+
+
+.buttonAzSk{
+    background-color: #1D4962;
+    display: inline-block;
+    height: 50px;
+    padding: 10px;
+    line-height: 50px;
+    box-shadow: 2px 2px 2px 2px black;
+    border: 1px solid black;
+    margin: 0px;
+    width: 130px;
+    color: #FFF;
+}
