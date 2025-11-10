@@ -34,20 +34,8 @@ a{
     color: #000000;
 }
 
-.box{
-    width: 1300px;
-    height: 1200px;
-    background: rgb(255, 255, 255);
-    position: absolute;
-    z-index: 1;
-    top: 200px;
-    left: 300px;
-}
-
 .foto{
     display: inline-block;
-    position: absolute;
-    z-index: 2;
     top: 300px;
     left: 1100px;
     width: 400px;
@@ -69,8 +57,6 @@ a{
     box-shadow: 2px 2px 2px 2px black;
     border: 1px solid black;
     margin: 0px;
-    position: absolute;
-    z-index: 2;
     top: 800px;
     left: 450px;
     width: 130px;
@@ -85,8 +71,6 @@ a{
     box-shadow: 2px 2px 2px 2px black;
     border: 1px solid black;
     margin: 0px;
-    position: absolute;
-    z-index: 2;
     top: 800px;
     left: 700px;
     width: 150px;
