@@ -1,8 +1,5 @@
-h1{
-    font-family: "Inter", sans-serif;
+.title{
     display: inline-block;
-    top: 300px;
-    left: 450px;
     font-weight: 500;
-    font-size: 80px
+    font-size: 50px
 }
