@@ -3,4 +3,5 @@
     background-color: white;
     padding: 10px 20px;
     justify-content: space-between;
+    border-bottom: 10px solid #000;
 }

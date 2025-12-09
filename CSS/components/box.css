@@ -1,7 +1,7 @@
 .box{
+    display: inline-block;
     position: absolute;
     z-index: 1;
-    width: 1371px;
     height: 815px;
     background: #FFF;
     top: 133px;
