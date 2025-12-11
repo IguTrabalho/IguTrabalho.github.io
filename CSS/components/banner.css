@@ -15,8 +15,20 @@
     width: 1300px;
 }
 
-.banner .navigation{
+.banner .navButton{
     display: flex;
-    justify-content: space-around;
-    margin-top: 500px;
+    justify-content: space-evenly;
+    margin-top: 200px;
+    margin-right: 580px;
+}
+
+.banner .navFoto{
+    display: flex;
+    margin-left: 800px;
+}
+
+.banner .navTitle{
+    display: flex;
+    margin-top: 200px;
+    margin-left: 150px;
 }
