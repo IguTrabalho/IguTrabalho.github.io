@@ -7,6 +7,7 @@
     box-shadow: 5px 5px black;
     text-decoration: none;
     transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+    font-weight: 650;
     font-size: 20px;
 }
 
@@ -24,8 +25,9 @@
     border: 1px solid black;
     margin: 0px;
     width: 130px;
+    font-weight: 650;
     font-size: 20px;
-    color: #000;
+    color: #ffffff;
     text-decoration: none;
     transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
     top: 1000px;
