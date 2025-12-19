@@ -5,24 +5,30 @@
     background-size: 100%;
     height: 920px;
     border-bottom: 10px solid #000;
-
 }
 
 .statistics .html_stat{
-    height: 150px;
-    width: 350px;
     display: flex;
     flex-direction: column;
+    width: 300px;
+
+    padding-top: 80px;
+    margin-left: 100px;
+}
+
+.statistics .html_icone{
+    height: 50px;
+    width: 50px;
+}
+
+
+.statistics .html_text{
+    display: flex;
+    margin-left: 160px;
+    justify-self: center;
 }
 
 .statistics .html_progress_bar{
     display: flex;
-    margin-top: 50px;
-}
-
-.statistics .html_text{
-    display: flex;
-    height: 40px;
-    width: 40px;
-    margin-left: 30px;
+    margin-left: 160px;
 }
