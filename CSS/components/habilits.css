@@ -1,0 +1,8 @@
+.habilits{
+    box-sizing: border-box;
+    background-color: #5A90B2;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 920px;
+    border-bottom: 10px solid #000;
+}

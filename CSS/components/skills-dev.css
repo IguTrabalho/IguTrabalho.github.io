@@ -1,0 +1,18 @@
+.skills-dev{
+    display: flex;
+    font-size: 25px;
+    color: #fff;
+}
+
+.skills-dev .html-icon{
+    height: 100px;
+    width: 100px;
+
+    margin-right: 25px;
+}
+
+.skills-dev .html-progtitle{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
