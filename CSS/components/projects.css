@@ -1,0 +1,27 @@
+.projects{
+    display: flex;
+
+    background-color: #1D4962;
+
+    width: 100%;
+    height: 600px;
+
+    justify-content: center;
+}
+
+.projects .projects-div{
+    display: flex;
+
+    width: 80%;
+    height: 600px;
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+.projects .project{
+    width: 400px;
+    height: 60%;
+
+    box-shadow: 5px 5px #fff;
+}
