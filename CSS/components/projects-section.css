@@ -1,6 +1,4 @@
-.projects{
-    display: flex;
-
+.projects_section{
     background-color: #1D4962;
 
     width: 100%;
@@ -9,19 +7,21 @@
     justify-content: center;
 }
 
-.projects .projects-div{
+.projects_section .projects_container{
     display: flex;
 
     width: 80%;
-    height: 600px;
+    height: 400px;
 
     align-items: center;
     justify-content: space-between;
+
+    margin-left: 10%;
 }
 
-.projects .project{
+.projects_section .project{
     width: 400px;
-    height: 60%;
+    height: 400px;
 
     box-shadow: 5px 5px #fff;
 }
