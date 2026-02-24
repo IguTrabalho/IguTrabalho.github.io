@@ -1,9 +1,0 @@
-.box{
-    display: inline-block;
-    position: absolute;
-    z-index: 1;
-    height: 815px;
-    background: #FFF;
-    top: 133px;
-    left: 300px;
-}

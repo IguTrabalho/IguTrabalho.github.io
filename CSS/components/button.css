@@ -15,7 +15,7 @@
     transform: scale(0.95);
 }
 
-.buttonAzSk{
+.button_azk{
     background-color: #1D4962;
     display: inline-block;
     height: 50px;
@@ -33,6 +33,6 @@
     top: 1000px;
 }
 
-.buttonAzSk:hover{
+.button_azk:hover{
     transform: scale(0.95);
 }
