@@ -1,4 +1,4 @@
-.wrapper-skill{
+.wrapper_skill{
     display: flex;
     flex-wrap: wrap;
 
@@ -8,15 +8,15 @@
     margin-right: auto;
 }
 
-.wrapper-skill .skills-dev{
+.wrapper_skill .skills-dev{
     width: 430px;
     margin-bottom: 40px;
 }
 
-.wrapper-skill .skills-dev:nth-child(odd) {
+.wrapper_skill .skills-dev:nth-child(odd) {
     margin-right: 300px;
 }
 
-.wrapper-skill .progress-bar{
+.wrapper_skill .progress-bar{
     width: 320px;
 }

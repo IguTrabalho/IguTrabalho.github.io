@@ -1,0 +1,11 @@
+.about{
+    height: 900px;
+    background-color: #000;
+}
+
+.about .texto{
+    width: 50%;
+    margin-left: 424px;
+
+    color: #fff;
+}
