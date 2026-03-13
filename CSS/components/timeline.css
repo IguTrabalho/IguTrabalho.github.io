@@ -1,0 +1,23 @@
+.timeline{
+    margin-top: 100px;
+
+    background-color: #fff;
+    height: 10px;
+    width: 100%;
+}
+
+.pointime{
+    background-color: #ccff00;
+
+    width: 15px;
+    height: 15px;
+    margin-left: 50px;
+
+    border-radius: 50%;
+
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+}
+
+.pointime:hover{
+    transform: scale(2);
+}

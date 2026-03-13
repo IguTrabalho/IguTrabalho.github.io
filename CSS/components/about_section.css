@@ -1,10 +1,16 @@
 .about{
     height: 900px;
     background-color: #000;
+
+    display:inline-block;
+
+   justify-content: center;
 }
 
 .about .texto{
     width: 50%;
+
+    margin-top: 300px;
     margin-left: 424px;
 
     color: #fff;
