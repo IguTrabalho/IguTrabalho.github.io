@@ -1,16 +1,16 @@
 .about{
     height: 900px;
-    background-color: #000;
+    background-color: #000826;
 
     display:inline-block;
 
    justify-content: center;
 }
 
-.about .texto{
+.about .personal_description{
     width: 50%;
 
-    margin-top: 300px;
+    margin-top: 400px;
     margin-left: 424px;
 
     color: #fff;

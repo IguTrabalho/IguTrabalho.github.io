@@ -1,23 +1,56 @@
 .timeline{
-    margin-top: 100px;
+    margin-top: 250px;
 
     background-color: #fff;
     height: 10px;
     width: 100%;
+
+    display: flex;
+    justify-content: space-around;
 }
 
 .pointime{
-    background-color: #ccff00;
+    background-color: #000826;
 
-    width: 15px;
-    height: 15px;
+    width: 100px;
+    height: 150px;
     margin-left: 50px;
-
     border-radius: 50%;
 
-    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+    transition: 0.3s;
+}
+
+.text_pointime{
+    color: #fff;
+    
+    opacity: 0;
+    visibility: hidden;
+
+    transition: 0.3s;
+}
+
+.img_pontime{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+
+    transition: 0.3s;
 }
 
 .pointime:hover{
-    transform: scale(2);
+    width: 250px;
+    height: 250px;
+    margin-left: 50px;
+    border-radius: 10%;
+}
+
+.pointime:hover .text_pointime{
+    opacity: 1;
+    visibility: visible;
+}
+
+.pointime:hover .img_pontime{
+    width: 100%;
+    height: 200px;
+    border-radius: 10%;
 }
