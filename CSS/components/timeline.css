@@ -2,7 +2,7 @@
     margin-top: 250px;
 
     background-color: #fff;
-    height: 10px;
+    height: 5px;
     width: 100%;
 
     display: flex;
@@ -46,7 +46,7 @@
 
 .pointime:hover .text_pointime{
     opacity: 1;
-    visibility: visible;
+    visibility: visible;    
 }
 
 .pointime:hover .img_pontime{

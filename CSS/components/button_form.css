@@ -1,0 +1,25 @@
+.div_form{
+    background-color: #28252a;
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+.div_form .button_form{
+    background-color: #5A90B2;
+    color: #fff;
+
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+    box-shadow: 5px 5px 5px 2px black;
+
+    transition: transform 100ms cubic-bezier(.45,.97,.68,2.48);
+
+    cursor: pointer;
+}
+
+.div_form .button_form:hover{
+    transform: scale(0.95);
+}
